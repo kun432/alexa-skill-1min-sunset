@@ -1,7 +1,7 @@
 {
   "interactionModel": {
       "languageModel": {
-          "invocationName": "一分間暖炉",
+          "invocationName": "一分間サンセット",
           "intents": [
               {
                   "name": "AMAZON.CancelIntent",
