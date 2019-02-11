@@ -1,0 +1,83 @@
+{
+  "interactionModel": {
+      "languageModel": {
+          "invocationName": "一分間暖炉",
+          "intents": [
+              {
+                  "name": "AMAZON.CancelIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.HelpIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.StopIntent",
+                  "samples": []
+              },
+              {
+                  "name": "PlayVideoIntent",
+                  "slots": [],
+                  "samples": [
+                      "癒やしてね",
+                      "動画を再生してね",
+                      "再生してね",
+                      "動画を再生",
+                      "再生",
+                      "再生して",
+                      "再生してください",
+                      "癒やして",
+                      "癒やしてください",
+                      "動画を再生して",
+                      "動画を再生してください"
+                  ]
+              },
+              {
+                  "name": "AMAZON.NavigateHomeIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.MoreIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.NavigateSettingsIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.NextIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.PageUpIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.PageDownIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.PreviousIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.ScrollRightIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.ScrollDownIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.ScrollLeftIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.ScrollUpIntent",
+                  "samples": []
+              }
+          ],
+          "types": []
+      }
+  }
+}
